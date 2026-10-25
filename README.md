@@ -75,12 +75,3 @@ Linked-List-Management-System/
 └── docs/
     └── project-report.md
 ```
-
-## GitHub submission
-1. Create a public repository named `Linked-List-Management-System`.
-2. Upload all files in this project folder.
-3. Verify the README and source files are visible.
-4. Submit the repository URL to your instructor.
-
-## Viva preparation
-Be ready to explain node structure, head/tail references, why beginning insertion is O(1), why search is O(n), how reversal works, slow/fast references for the middle, and the additional memory/link maintenance in a doubly linked list.
