@@ -1,0 +1,35 @@
+====================================================
+          LINKED LIST MANAGEMENT SYSTEM
+             DSA MINI PROJECT - JAVA
+====================================================
+
+1. Singly Linked List
+2. Doubly Linked List
+3. Compare Singly vs Doubly Linked List
+4. Exit
+Enter your choice: 1
+
+********** Operations on Singly Linked List **********
+1. Insert at Beginning ...
+Enter your choice: 2
+Enter value: 40
+Inserted 40 at the end.
+Enter your choice: 2
+Enter value: 10
+Inserted 10 at the end.
+Enter your choice: 2
+Enter value: 30
+Inserted 30 at the end.
+Enter your choice: 2
+Enter value: 20
+Inserted 20 at the end.
+Enter your choice: 12
+40 -> 10 -> 30 -> 20 -> NULL
+Enter your choice: 18
+List sorted in ascending order.
+Enter your choice: 12
+10 -> 20 -> 30 -> 40 -> NULL
+Enter your choice: 17
+List reversed.
+Enter your choice: 12
+40 -> 30 -> 20 -> 10 -> NULL
